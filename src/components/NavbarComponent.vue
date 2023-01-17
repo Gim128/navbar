@@ -24,7 +24,6 @@ import { ref } from 'vue'
 import buttonComponent from './buttonComponent.vue'
 
 
-
 export default {
   components: { buttonComponent },
     name: "NavbarView",
@@ -53,6 +52,6 @@ export default {
 
 </script>
 
-<style>
-
+<style scoped>
+  @import '../assets/tailwind.css',
 </style>
