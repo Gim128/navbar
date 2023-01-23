@@ -2,7 +2,7 @@
   <div class="bg-white py-24 sm:py-32 lg:py-24"> 
     <div class="mx-auto max-w-7xl px-6 lg:px-8">
         <div class="sm:text-center">
-            <h2 text-lg font-semibold leading-8 text-indigo-600>Know About CNT</h2>
+            <h2 class="text-lg font-semibold leading-8 text-indigo-700">Know About CNT</h2>
             <p class="mt-2 text-2xl font-bold tracking-tight text-gray-900 sm:text-4xl">Why Choose CNT</p>
             <p class="mx-auto mt-6 max-w-2xl text-lg leading-8 text-gray-600">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio veritatis earum, perspiciatis voluptate minus magnam iusto assumenda iste quod consequatur sapiente laudantium suscipit dolores quasi? Possimus non minus quia omnis?
